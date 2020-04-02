@@ -1,4 +1,4 @@
-<% project_name = 'penguins-api' %>
+<% project_name = 'shoppinglist-api' %>
 
 default: &default
   adapter: postgresql
