@@ -2,13 +2,13 @@ Jennifer Payano Shopping-List-API application
 
 Shopping List-API
 ----------------
-
 * Description
 * Wireframe
 * Planning and Development
 * User Stories
 * ERD
 * Technology
+* Unsolved Problems
 * Creator
 
 Description
