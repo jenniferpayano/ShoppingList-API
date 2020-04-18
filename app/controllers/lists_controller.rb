@@ -17,6 +17,7 @@ class ListsController < OpenReadController
 
   # POST /lists
   def create
+    puts current_user
     @list = current_user.lists.build(list_params)
 
     if @list.save
